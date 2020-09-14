@@ -1,6 +1,6 @@
 # GADS2020
-Google Africa Developer Scholarship Phase II
-Associate Android Developer Practice Project
+# Google Africa Developer Scholarship Phase II
+# Associate Android Developer Practice Project
 Timeline: Friday, Aug 28 - Friday, Sept 11 2020 (2 weeks)
 
 ## Building a GADS Leaderboard Mobile Application
